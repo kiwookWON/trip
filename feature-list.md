@@ -2,5 +2,9 @@
 1. Log in
 2. Sign Up
 3. SSO
+<<<<<<< HEAD
 4. Add Category
 5. Detail Page Add
+=======
+4. detailPage Add
+>>>>>>> master
